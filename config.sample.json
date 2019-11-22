@@ -21,8 +21,8 @@
     },
     {
       "url": "https://app.powerbi.com/groups/2bd900fa-2a41-40c1-936f-3bb3f008e6bb/reports/969966c2-f491-433e-a5e3-b602635f4696/ReportSection6bf94d8fb072da2e1686?chromeless=1",
-      "duration": 120,
-      "tabReloadIntervalSeconds": 3060
+      "duration": 100,
+      "tabReloadIntervalSeconds": 360
     },
     {
       "url": "https://app.powerbi.com/groups/2bd900fa-2a41-40c1-936f-3bb3f008e6bb/reports/969966c2-f491-433e-a5e3-b602635f4696/ReportSection42ee9d87db5b851c09a6?chromeless=1",
@@ -56,8 +56,8 @@
     },
     {
       "url": "https://app.powerbi.com/groups/2bd900fa-2a41-40c1-936f-3bb3f008e6bb/reports/969966c2-f491-433e-a5e3-b602635f4696/ReportSectioncb7bcf845d211bebcc06?chromeless=1",
-      "duration": 120,
-      "tabReloadIntervalSeconds": 3200
+      "duration": 100,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://app.powerbi.com/groups/2bd900fa-2a41-40c1-936f-3bb3f008e6bb/reports/969966c2-f491-433e-a5e3-b602635f4696/ReportSection435f52c11b461dc0c555?chromeless=1",
@@ -112,8 +112,8 @@
     },
     {
       "url": "https://app.powerbi.com/groups/2bd900fa-2a41-40c1-936f-3bb3f008e6bb/reports/bc54e06d-07b8-410f-84e7-b33f547bae81/ReportSectionadb67579a152662fbfbf?chromeless=1",
-      "duration": 120,
-      "tabReloadIntervalSeconds": 3420
+      "duration": 100,
+      "tabReloadIntervalSeconds": 320
     },
     {
       "url": "https://app.powerbi.com/groups/2bd900fa-2a41-40c1-936f-3bb3f008e6bb/reports/3b3566da-013d-4711-a61e-f318de115199/ReportSectionb9db6cc693f392057a44?chromeless=1",
@@ -142,8 +142,8 @@
     },
     {
       "url": "https://app.powerbi.com/groups/2bd900fa-2a41-40c1-936f-3bb3f008e6bb/reports/3b3566da-013d-4711-a61e-f318de115199/ReportSectionb59624f302804a67c473?chromeless=1",
-      "duration": 120,
-      "tabReloadIntervalSeconds": 3540
+      "duration": 100,
+      "tabReloadIntervalSeconds": 340
     },
     {
       "url": "https://app.powerbi.com/groups/2bd900fa-2a41-40c1-936f-3bb3f008e6bb/reports/3b3566da-013d-4711-a61e-f318de115199/ReportSection6bac02b22a35ebe7b608?chromeless=1",
