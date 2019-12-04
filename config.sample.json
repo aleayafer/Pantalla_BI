@@ -2,7 +2,7 @@
   "settingsReloadIntervalMinutes": 30,
   "fullscreen": true,
   "autoStart": false,
-  "lazyLoadTabs": true,
+  "lazyLoadTabs": false,
   "websites": [
     {
       "url": "https://app.powerbi.com/groups/2bd900fa-2a41-40c1-936f-3bb3f008e6bb/reports/c1dd61b7-d038-4421-821d-453ee16a75d4/ReportSectionfd078d43c2746b388d90?chromeless=1",
